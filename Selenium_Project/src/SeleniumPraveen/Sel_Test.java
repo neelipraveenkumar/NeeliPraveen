@@ -11,6 +11,7 @@ public class Sel_Test {
 		Sel_Test obj=new Sel_Test();
 		obj.test();
 		System.out.println("git test");
+		System.out.println("updating after the commiting and push");
 	}
 
 }
